@@ -1,10 +1,8 @@
 # LINUX 'cd' PRACTICE
 
-1. cd 'directory name' = go to directory
-2. cd = change directory from current directory
-3. cd / = go to root directory
-4. cd - = go to last working directory
-5. cd ~ = go to home directory 
-6. cd .. = back one directory 
-7. cd ../../ = back multiple directory 
-8. cd . = current directory
+1. cd [directory]  = go to [directory]
+2. cd         = Go to home directory
+3. cd ~       = Go to hoome directory
+4. cd ..      = Go up one directory level  
+5. cd ../../  = Go up multiple directory levels
+6. cd -       = Go to the previous directory
