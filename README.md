@@ -1,1 +1,2 @@
 # bash
+start learning
